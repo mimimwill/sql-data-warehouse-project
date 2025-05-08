@@ -46,6 +46,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm Melissa. I'm an analyst and sales professional who loves working with data and people!
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's Connect!
 
 https://www.linkedin.com/in/melissa-williams1/
